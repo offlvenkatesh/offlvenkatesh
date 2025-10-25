@@ -5,7 +5,7 @@
 ---
 
 ### 🛠️ Skills & Technologies
-- **Frontend:** HTML, CSS, JavaScript,   
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - **Backend:** Python, Node.js
 - **Tools:** Git, GitHub, VS Code  
 
@@ -36,7 +36,4 @@
 - Email: offlvenkatesh@gmail.com 
 - GitHub: [@offlvenkatesh](https://github.com/offlvenkatesh)  
 
----
 
-### 📊 GitHub Stats
-![Venkatesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=offlvenkatesh&show_icons=true&theme=radical)
