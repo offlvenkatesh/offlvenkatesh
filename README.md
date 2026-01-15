@@ -1,21 +1,118 @@
-<h1>Hi 👋, I'm Venkatesh</h1>
 
-##  💫 About Me:
-I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm a college student and I also love Physics, and want to learn more about how the Universe works.
+# Hi 👋, I'm Venkatesh
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/offlvenkatesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/offlvenkatesh) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@offlvenkatesh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:offlvenkatesh@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=venkatesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=venkatesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Web Developer | React Learner | UI-Focused Builder  
+🎓 BCA (AI) Student | Learning by building real projects
 
 ---
-[![](https://visitcount.itsvg.in/api?id=venkatesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
 
+I'm a passionate web developer who enjoys building clean, responsive, and user-friendly web applications.  
+I focus on **strong fundamentals**, **consistent learning**, and **real-world projects**.
+
+- 🌱 Currently learning **React in-depth**
+- 🎨 Interested in UI/UX design
+- 🛠️ Love turning ideas into products
+
+---
+
+## 💻 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,bootstrap" />
+</p>
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Portfolio Website
+📝 Personal portfolio showcasing my skills and projects.
+
+**🛠 Tech Used:**  
+HTML · CSS · JavaScript  
+
+🔗 [Live Demo](https://your-link.com)  
+📂 [Repository](https://github.com/YOUR_USERNAME/portfolio)
+
+</td>
+
+<td width="50%">
+
+### 🔹 React Learning Projects
+📝 Small React apps to learn components, props, and state.
+
+**🛠 Tech Used:**  
+React · JavaScript  
+
+📂 [Repository](https://github.com/YOUR_USERNAME/react-projects)
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 Weather App
+📝 Weather app using public API.
+
+**🛠 Tech Used:**  
+JavaScript · API · CSS  
+
+📂 [Repository](https://github.com/YOUR_USERNAME/weather-app)
+
+</td>
+
+<td width="50%">
+
+### 🔹 GitHub Profile README
+📝 Custom GitHub profile with stats and project cards.
+
+**🛠 Tech Used:**  
+Markdown · GitHub Stats  
+
+📂 [Repository](https://github.com/YOUR_USERNAME/YOUR_USERNAME)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats (Pro Style)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="https://linkedin.com/in/YOUR_USERNAME">LinkedIn</a> •
+  <a href="https://medium.com/@YOUR_USERNAME">Medium</a> •
+  <a href="mailto:your@email.com">Email</a>
+</p>
+
+---
+
+⚡ *Consistency beats talent. I'm here to build and grow.*
