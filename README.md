@@ -125,7 +125,7 @@ Markdown · GitHub Stats
 <td align="center" width="50%">
 
 <a href="https://your-live-demo-link.com">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/portfolio/main/preview.png" width="100%" />
+  <img src="[https://raw.githubusercontent.com/YOUR_USERNAME/portfolio/main/preview.png](https://github.com/offlvenkatesh/youtube-ui-clone/blob/29c536614d2c900c1270ba9000709cc0706d8cfc/preview.png)" width="100%" />
 </a>
 
 ### 🌐 Portfolio Website
@@ -146,6 +146,37 @@ Markdown · GitHub Stats
 **Tech:** JavaScript · API · CSS
 
 <a href="https://github.com/YOUR_USERNAME/weather-app">Repo</a>
+
+</td>
+
+</tr>
+</table>
+
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/offlvenkatesh/youtube-ui-clone">
+  <img src="https://raw.githubusercontent.com/offlvenkatesh/youtube-ui-clone/main/preview.png" width="100%" />
+</a>
+
+### 📺 YouTube UI Clone
+**Tech:** HTML · CSS · JavaScript
+
+<a href="https://github.com/offlvenkatesh/youtube-ui-clone">Repo</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://via.placeholder.com/600x340?text=Next+Project" width="100%" />
+
+### 🚀 Next Project
+**Tech:** React · CSS
+
+Coming Soon
 
 </td>
 
