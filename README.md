@@ -116,3 +116,38 @@ Markdown · GitHub Stats
 ---
 
 ⚡ *Consistency beats talent. I'm here to build and grow.*
+
+## 🚀 Projects
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+<a href="https://your-live-demo-link.com">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/portfolio/main/preview.png" width="100%" />
+</a>
+
+### 🌐 Portfolio Website
+**Tech:** HTML · CSS · JavaScript
+
+<a href="https://your-live-demo-link.com">Live</a> •
+<a href="https://github.com/YOUR_USERNAME/portfolio">Repo</a>
+
+</td>
+
+<td align="center" width="50%">
+
+<a href="https://github.com/YOUR_USERNAME/weather-app">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/weather-app/main/preview.png" width="100%" />
+</a>
+
+### ☁️ Weather App
+**Tech:** JavaScript · API · CSS
+
+<a href="https://github.com/YOUR_USERNAME/weather-app">Repo</a>
+
+</td>
+
+</tr>
+</table>
