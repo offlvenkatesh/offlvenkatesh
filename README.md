@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Venkatesh
 
-🚀 Web Developer | React Learner | Learning by building real projects
+🚀 Web Developer | Blog Writer ✍️  | Learning by building real-world projects
 
 ---
 
