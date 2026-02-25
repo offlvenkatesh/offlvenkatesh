@@ -19,8 +19,10 @@ I focus on **strong fundamentals**, **consistent learning**, and **real-world pr
 ## 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,bootstrap" />
 </p>
+
+
 
 ---
 
